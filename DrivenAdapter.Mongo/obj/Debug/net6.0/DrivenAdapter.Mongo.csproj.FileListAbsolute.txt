@@ -1,0 +1,17 @@
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\bin\Debug\net6.0\DrivenAdapter.Mongo.deps.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\bin\Debug\net6.0\DrivenAdapter.Mongo.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\bin\Debug\net6.0\DrivenAdapter.Mongo.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\bin\Debug\net6.0\Domain.Entities.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\bin\Debug\net6.0\Domain.UseCases.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\bin\Debug\net6.0\Domain.Entities.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\bin\Debug\net6.0\Domain.UseCases.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\DrivenAdapter.Mongo.csproj.AssemblyReference.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\DrivenAdapter.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\DrivenAdapter.Mongo.AssemblyInfoInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\DrivenAdapter.Mongo.AssemblyInfo.cs
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\DrivenAdapter.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\DrivenAdapter.Mongo.csproj.CopyComplete
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\DrivenAdapter.Mongo.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\refint\DrivenAdapter.Mongo.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\DrivenAdapter.Mongo.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Dapper\EjercicioJulian\Workshop-dapper\DrivenAdapter.Mongo\obj\Debug\net6.0\ref\DrivenAdapter.Mongo.dll
